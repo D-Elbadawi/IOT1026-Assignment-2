@@ -7,7 +7,7 @@ namespace Assignment
         static void Main(string[] args)
         {
 
-            // Create a treasure chest
+            /// Create a treasure chest
             TreasureChest chest = new TreasureChest();
 
             // Test default constructor and GetState method
