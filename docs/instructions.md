@@ -60,7 +60,8 @@ Submit a link to the GitHub repo containing your code.
 
 ## State Diagram
 
-![State Diagram](state-diagram.png)
+![State Diagram](Rebeccas-state-diagram.png)
+**Rebecca's amazing state diagram**
 
 ## Grading Rubric
 
