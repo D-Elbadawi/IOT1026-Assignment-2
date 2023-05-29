@@ -13,10 +13,7 @@
 
 # IOT1026-Assignment-2
 
-[![.NET Core Desktop](https://github.com/D-Elbadawi/IOT1026-Assignment-2/actions/workflows/dotnet2-desktop.yml/badge.svg?branch=main)](https://github.com/D-Elbadawi/IOT1026-Assignment-2/actions/workflows/dotnet2-desktop.yml)
-        
-**Bonus:** Improve the state diagram in the instructions.md file to use treasure chests and make a pull request to receive a 1% bonus. If multiple students make a pull request, the request I incorporate into the assignment will receive a 2% bonus. Ensure your pull request does not incorporate any other changes.
-
+[![.NET](https://github.com/D-Elbadawi/IOT1026-Assignment-2/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/D-Elbadawi/IOT1026-Assignment-2/actions/workflows/dotnet.yml)
 [Assignment Instructions](docs/instructions.md)  
 [How to start coding](docs/how-to-use.md)  
 [How to update status badges](docs/how-to-update-badges.md)
