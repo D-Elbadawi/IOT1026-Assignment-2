@@ -9,7 +9,9 @@ namespace Assignment
         private readonly LockType _lockType;
         private readonly LootQuality _lootQuality;
         //
-        // Default Constructor
+        /// <summary>
+        /// Default Constructor
+        /// </summary>
         public TreasureChest()
         {
             _material = Material.Bronze;
