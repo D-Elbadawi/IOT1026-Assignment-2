@@ -12,8 +12,11 @@
 </p>
 
 # IOT1026-Assignment-2
+[![.NET Core Desktop](https://github.com/D-Elbadawi/IOT1026-Assignment-2/actions/workflows/dotnet1-desktop.yml/badge.svg)](https://github.com/D-Elbadawi/IOT1026-Assignment-2/actions/workflows/dotnet1-desktop.yml)
 
-[![.NET](https://github.com/D-Elbadawi/IOT1026-Assignment-2/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/D-Elbadawi/IOT1026-Assignment-2/actions/workflows/dotnet.yml)
+        
+        
+        
 [Assignment Instructions](docs/instructions.md)  
 [How to start coding](docs/how-to-use.md)  
 [How to update status badges](docs/how-to-update-badges.md)
